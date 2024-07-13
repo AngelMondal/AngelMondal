@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelMondal
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on Any type of coding work
 - 📫 How to reach me Instagram:-
 https://www.instagram.com/_http.thor_?igsh=MXZkYW44aGE3MTdqdQ==
