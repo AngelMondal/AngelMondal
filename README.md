@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @AngelMondal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on Any type of coding work
-- 📫 How to reach me Instagram:-
-https://www.instagram.com/_http.thor_?igsh=MXZkYW44aGE3MTdqdQ==
-<!---
-AngelMondal/AngelMondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Angel Mondal — an aspiring Software Developer with a passion for building clean, efficient, and user-friendly applications.
+🎓 MCA Graduate | 💡 Problem Solver | 💻 Tech Enthusiast
+
+🔭 Currently working on:
+🎬 Movie Recommender System – A content-based ML project using Streamlit & TMDB API
+
+🌱 I’m learning:
+
+ .Advanced Python & Machine Learning
+
+ .Web Development (React, Node.js)
+
+ .Version Control with Git & GitHub
+
+💬 Ask me about:
+Python, Data Structures, Machine Learning, Streamlit, or Git!
+
+📫 Reach me at: angelmondal58@gmail.com
+
+🚀 Always ready to collaborate on meaningful open-source projects!
